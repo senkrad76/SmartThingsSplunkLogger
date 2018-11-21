@@ -26,9 +26,9 @@ namespace: "thefuzz4",
 author: "Brian Keifer and Jason Hamilton",
 description: "Log SmartThings events to a Splunk HTTP Event Collector server",
 category: "Convenience",
-iconUrl: "http://apmblog.dynatrace.com/wp-content/uploads/2014/07/Splunk_thumbnail.png",
-iconX2Url: "http://apmblog.dynatrace.com/wp-content/uploads/2014/07/Splunk_thumbnail.png",
-iconX3Url: "http://apmblog.dynatrace.com/wp-content/uploads/2014/07/Splunk_thumbnail.png")
+iconUrl: "https://www.logolynx.com/images/logolynx/f2/f222760c66cf7aab3a64eeb0157646b6.png",
+iconX2Url: "https://www.logolynx.com/images/logolynx/f2/f222760c66cf7aab3a64eeb0157646b6.png",
+iconX3Url: "https://www.logolynx.com/images/logolynx/f2/f222760c66cf7aab3a64eeb0157646b6.png")
 
 preferences {
 section("Log these presence sensors:") {
